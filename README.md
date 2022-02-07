@@ -12,3 +12,5 @@ The app rankings are based on google play store app rankings for **January 2022*
 We have extracted the data of various apps from the google play store based on their rankings. Google doesn't provide any public data sets of the apps and hence we needed to extract the data. We used an automation tool called **Appium** along with python to interface with the mobile google play store app and extract the data.
 
 Link to Kaggle data sheet [https://www.kaggle.com/shakthidhar/google-play-store-category-wise-top-500-apps](https://www.kaggle.com/shakthidhar/google-play-store-category-wise-top-500-apps)
+
+Link to Appium automation based scraping code in python [https://github.com/Shakthi-Dhar/AppPin](https://github.com/Shakthi-Dhar/AppPin)
